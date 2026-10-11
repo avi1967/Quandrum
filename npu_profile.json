@@ -1,0 +1,12 @@
+{
+  "status": "connected",
+  "source": "cirrascale_models_endpoint",
+  "measured_on": "Cirrascale Inference Cloud REST Endpoint",
+  "endpoint": "https://aisuite.cirrascale.com/apis/v2",
+  "api_roundtrip_ms": 1336.959,
+  "latency_ms": null,
+  "latency_label": "Not measured",
+  "peak_memory_mb": null,
+  "npu_coverage_pct": null,
+  "message": "HTTP 200: Successfully connected to Cirrascale Cloud AI 100 endpoint."
+}
